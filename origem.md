@@ -1,6 +1,6 @@
 # Origem
 
-![Volgogrado, Rússia — cidade natal de Viktor](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Volgograd_city_panoramic_view.jpg/1280px-Volgograd_city_panoramic_view.jpg)
+![Volgogrado, Rússia — cidade natal de Viktor](https://images.unsplash.com/photo-1547448526-1ee6b0f2e56e?w=1200&q=80)
 
 ---
 

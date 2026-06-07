@@ -1,6 +1,6 @@
 # Forma de Atuação
 
-![Porto de Red Hook, Brooklyn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Red_Hook_Container_Terminal.jpg/1280px-Red_Hook_Container_Terminal.jpg)
+![Porto de Red Hook, Brooklyn](https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1200&q=80)
 
 ---
 

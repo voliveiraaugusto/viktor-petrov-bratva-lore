@@ -1,6 +1,6 @@
 # Brighton Beach — O Começo
 
-![Brighton Beach Avenue — o coração da comunidade russa em Brooklyn](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brighton_Beach_Avenue.jpg/1280px-Brighton_Beach_Avenue.jpg)
+![Brighton Beach Avenue — o coração da comunidade russa em Brooklyn](https://images.unsplash.com/photo-1555424681-b0ecf4fe19a5?w=1200&q=80)
 
 ---
 

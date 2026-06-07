@@ -1,6 +1,6 @@
 # Território e Influência
 
-![Mapa do sul de Brooklyn — zona de operação](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brooklyn_neighborhoods_map.png/800px-Brooklyn_neighborhoods_map.png)
+![Mapa do sul de Brooklyn — zona de operação](https://images.unsplash.com/photo-1524813686514-a57563d77965?w=1200&q=80)
 
 ---
 

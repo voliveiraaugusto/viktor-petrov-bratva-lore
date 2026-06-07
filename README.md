@@ -1,6 +1,6 @@
 # A Organização de Viktor Petrov
 
-![Brighton Beach, Brooklyn — "Little Odessa"](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brighton_Beach_aerial_photo_August_2019.jpg/1280px-Brighton_Beach_aerial_photo_August_2019.jpg)
+![Brighton Beach, Brooklyn — "Little Odessa"](https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?w=1200&q=80)
 
 ---
 
@@ -37,4 +37,4 @@ Em um restaurante sem placa na Neptune Avenue, Brighton Beach, um homem de cabel
 
 ---
 
-![Brighton Beach Avenue](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brighton_Beach_Avenue.jpg/1280px-Brighton_Beach_Avenue.jpg)
+![Brighton Beach Avenue](https://images.unsplash.com/photo-1555424681-b0ecf4fe19a5?w=1200&q=80)
