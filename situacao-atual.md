@@ -1,37 +1,58 @@
-# Situação Atual (2000–2005)
+# SITUAÇÃO ATUAL
 
 ---
 
-A organização é pequena — ~20 homens — mas lucrativa e praticamente invisível. O FBI monitora a Bratva em NYC, mas seus olhos estão nos peixes grandes: oligarcas, redes internacionais, esquemas bilionários.
-
-Viktor não é um peixe grande. É um peixe inteligente.
-
-## O Mundo Pós-2001
-
-O 11 de Setembro mudou as regras:
-
-- **Portos** com inspeções aleatórias e scanners
-- **Bancos** reportam transações acima de $10.000
-- **Telefones** grampeáveis sem mandado (Patriot Act)
-- **Comunidades imigrantes** sob escrutínio
-
-Viktor adaptou: menos volume nos contêineres, lavagem mais fragmentada, mensageiros em vez de telefones. Margem de erro menor.
-
-## Ameaças Imediatas
-
-**Os Italianos** — Um *capo* Colombo chamado Sal Marinetti faz perguntas sobre "os russos de Brighton Beach". Tensão fria.
-
-**Os Jovens** — Segunda geração, sem memória da URSS. Querem subir rápido, ostentam, falam demais. Viktor precisa decidir: disciplinar ou cortar.
-
-**O Informante** — Rumores de alguém na comunidade falando com um agente federal. Nada confirmado. Viktor observa.
-
-## O Futuro
-
-O tabuleiro está montado. Viktor pode expandir, manter, ou eliminar ameaças internas. Qualquer caminho tem riscos.
-
-Mas Viktor Petrov nunca perdeu uma partida que escolheu jogar.
+2000-2005     |     PÓS-11/09     |     NOVO MUNDO
 
 ---
 
-> *"O mundo mudou em setembro. Mas homens como eu já viveram o fim de um mundo antes. A União Soviética caiu, e eu sobrevivi. Duas torres caíram, e eu sobrevivi. O que vier depois... eu sobreviverei também."*
-> — Viktor Petrov
+~20 homens. Lucrativa. Praticamente invisível.
+
+O FBI monitora a Bratva em NYC — mas olhos nos peixes grandes. Oligarcas. Redes internacionais. Bilhões.
+
+Viktor não é um peixe grande.
+
+É um peixe inteligente.
+
+---
+
+## O MUNDO MUDOU
+
+11 de Setembro. Novas regras:
+
+- **Portos** — Inspeções. Scanners. Manifestos cruzados.
+- **Bancos** — Reportam transações acima de $10.000.
+- **Telefones** — Grampeáveis sem mandado (Patriot Act).
+- **Imigrantes** — Sob escrutínio constante.
+
+Viktor adaptou. Menos volume nos contêineres. Lavagem fragmentada. Mensageiros em vez de telefones.
+
+Margem de erro menor.
+
+---
+
+## AMEAÇAS IMEDIATAS
+
+**OS ITALIANOS** — Capo Colombo chamado Sal Marinetti faz perguntas sobre "os russos de Brighton Beach." Tensão fria.
+
+**OS JOVENS** — Segunda geração. Sem URSS na memória. Querem subir rápido. Ostentam. Falam demais. Viktor precisa decidir: disciplinar ou cortar.
+
+**O INFORMANTE** — Rumores. Alguém na comunidade falando com agente federal. Nada confirmado. Viktor observa.
+
+---
+
+## O TABULEIRO
+
+O tabuleiro está montado. As peças se movem.
+
+Viktor pode expandir. Manter. Eliminar ameaças internas.
+
+Qualquer caminho tem riscos.
+
+---
+
+> "O mundo mudou em setembro. Mas homens como eu já viveram o fim de um mundo antes. A União Soviética caiu, e eu sobrevivi. Duas torres caíram, e eu sobrevivi. O que vier depois... eu sobreviverei também."
+
+---
+
+⟩   O JOGO CONTINUA   ⟈

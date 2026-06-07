@@ -1,42 +1,50 @@
-# Brighton Beach — O Começo
-
-![Brighton Beach Avenue — o coração da comunidade russa em Brooklyn](https://images.unsplash.com/photo-1555424681-b0ecf4fe19a5?w=1200&q=80)
+# BRIGHTON BEACH
 
 ---
 
-Viktor não chegou sozinho. Trouxe consigo quatro homens de confiança — veteranos do mesmo campo, do mesmo código. Instalaram-se em Brighton Beach, entre milhares de imigrantes do leste europeu que buscavam o sonho americano.
+BROOKLYN     |     "LITTLE ODESSA"     |     1997-2000
 
-A região já era conhecida como "Little Odessa" — um pedaço da antiga URSS encravado no Brooklyn. Placas em cirílico, restaurantes com nomes impronunciáveis para americanos, mercados que vendiam vodka e pão preto. Um lugar onde estrangeiros podiam desaparecer sem esforço.
+---
 
-## Os Primeiros Negócios
+Viktor não chegou sozinho. Quatro homens de confiança — veteranos do mesmo campo, do mesmo código.
 
-A princípio, a operação era modesta:
+Brighton Beach. Placas em cirílico. Restaurantes com nomes impronunciáveis para americanos. Vodka e pão preto. Um lugar onde estrangeiros desaparecem sem esforço.
 
-- **Restaurante Volga** na Brighton Beach Avenue — ponto de reunião e escritório informal.
-- **Petrov Car Service** — empresa de táxi com doze carros, registrada no nome de um primo distante.
-- **Depósito em Red Hook** — alugado sob uma LLC genérica, recebia contêineres do exterior.
+---
 
-## O Sistema
+## PRIMEIRAS OPERAÇÕES
 
-Viktor não pensava pequeno. Pensava *em sistema*.
+A princípio, modesto:
 
-Cada negócio legítimo era uma engrenagem:
+- **Restaurante Volga** — Brighton Beach Ave. Ponto de reunião. Escritório informal.
+- **Petrov Car Service** — 12 táxis. Registrado no nome de um primo distante.
+- **Depósito Red Hook** — LLC genérica. Contêineres do exterior.
+
+---
+
+## O SISTEMA
+
+Viktor não pensava pequeno. Pensava em *sistema*.
 
 ```
-[Restaurante Volga] → Lava dinheiro de apostas ilegais
-         ↓
-[Táxis Petrov] → Movimentam envelopes entre associados
-         ↓
-[Depósito Red Hook] → Recebe contêineres com carga não declarada
-         ↓
-[Empresas fantasmas] → Dinheiro limpo sai para contas offshore
+RESTAURANTE  →  Lava dinheiro de apostas
+TÁXIS        →  Movimentam envelopes entre associados
+DEPÓSITO     →  Contêineres com carga não declarada
+FANTASMAS    →  Dinheiro limpo sai para offshore
 ```
 
-Em dois anos, a operação já faturava mais do que a maioria das gangues de rua da cidade — sem que um único tiro fosse disparado.
+Dois anos. Faturamento maior que a maioria das gangues da cidade.
 
-A comunidade local nunca desconfiou. Viktor era generoso: pagava reformas na igreja ortodoxa, ajudava famílias recém-chegadas, emprestava dinheiro sem juros abusivos.
+Nenhum tiro disparado.
 
-Ele não era temido em Brighton Beach.
-Era respeitado.
+---
 
-E isso era muito mais valioso.
+> Viktor era generoso com a comunidade. Reformas na igreja. Empregos. Empréstimos sem juros.
+
+> Não era temido em Brighton Beach. Era respeitado.
+
+> E isso era muito mais valioso.
+
+---
+
+⟩   O COMEÇO   ⟨

@@ -1,40 +1,75 @@
-# Forma de Atuação
-
-![Porto de Red Hook, Brooklyn](https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1200&q=80)
+# OPERAÇÕES
 
 ---
 
-A organização de Viktor não opera como uma gangue. Opera como uma **empresa com divisões ilegais.**
+FACHADAS     |     LAVAGEM     |     CONTRABANDO     |     FORNECIMENTO
 
-## Frentes Legítimas
+---
 
-| Negócio | Localização | Função Real |
-|---------|-------------|-------------|
-| Restaurante *Volga* | Brighton Beach | Lavagem / ponto de reunião |
+A organização não opera como gangue. Opera como **empresa com divisões ilegais.**
+
+---
+
+## FRENTES LEGÍTIMAS
+
+| NEGÓCIO | LOCAL | FUNÇÃO REAL |
+|---------|-------|-------------|
+| Restaurante *Volga* | Brighton Beach | Lavagem / reuniões |
 | Petrov Logistics LLC | Red Hook | Contrabando |
-| Petrov Car Service | Brighton Beach | Transporte de envelopes/pessoas |
-| Lava-Rápido *Estrela* | Sheepshead Bay | Lavagem de dinheiro |
-| Lava-Rápido *Orion* | Sheepshead Bay | Lavagem de dinheiro |
-| Atlantic Motors | Coney Island | Veículos para operações |
+| Petrov Car Service | Brighton Beach | Transporte |
+| Lava-Rápido *Estrela* | Sheepshead Bay | Lavagem |
+| Lava-Rápido *Orion* | Sheepshead Bay | Lavagem |
+| Atlantic Motors | Coney Island | Veículos operacionais |
 
-## Operações Ilegais
+---
 
-### 💰 Lavagem de Dinheiro
-Receita inflada nos negócios. O restaurante "fatura" o dobro. Os lava-rápidos lavam carros que nunca existiram. Milhões passam por mês.
+## LAVAGEM DE DINHEIRO
 
-### 📦 Contrabando
-Contêineres em Red Hook sob manifestos genéricos. Entre carga legal: armas desmontadas, eletrônicos roubados, componentes militares, mercadoria falsificada.
+Receita inflada. O restaurante fatura o dobro do real. Os lava-rápidos lavam carros que nunca existiram. Milhões passam por mês. Limpos.
 
-### 💳 Golpes Financeiros
-Ex-programadores e engenheiros soviéticos operam: cartões clonados, seguros falsos, fraude em Medicare.
+---
 
-### 🤝 Fornecimento
-Viktor como **corretor do submundo**: armas, documentos falsos, contatos internacionais, proteção. Tudo tem preço.
+## CONTRABANDO
 
-## O que a organização NÃO faz
+Contêineres em Red Hook. Manifestos genéricos: "peças automotivas", "equipamento industrial."
 
-❌ Não vende droga no varejo
-❌ Não disputa território de rua
-❌ Não usa violência como primeira opção
+Entre a carga legal:
+- Armas desmontadas
+- Eletrônicos roubados
+- Componentes militares
+- Mercadoria falsificada
 
-> Quando a violência acontece, é **cirúrgica**: sem testemunhas, sem rastros, sem manchete.
+---
+
+## GOLPES FINANCEIROS
+
+Ex-programadores soviéticos. Engenheiros. Matemáticos. Sem emprego digno na América — agora operam:
+- Cartões clonados
+- Seguros falsos
+- Fraude em Medicare
+
+---
+
+## FORNECIMENTO
+
+Viktor como **corretor do submundo.** Quem precisa de algo que não se encontra em lojas, sabe a quem perguntar.
+
+Armas. Documentos. Contatos internacionais. Proteção.
+
+Tudo tem preço.
+
+---
+
+## O QUE NÃO FAZEMOS
+
+❌ Droga no varejo — vulgar, arriscado, desnecessário.
+
+❌ Disputa de território — esquinas não interessam.
+
+❌ Violência como primeira opção — cara e barulhenta.
+
+> Quando acontece, é cirúrgica. Sem testemunhas. Sem rastros. Sem manchete.
+
+---
+
+⟩   NEGÓCIOS ACIMA DE TUDO   ⟈
