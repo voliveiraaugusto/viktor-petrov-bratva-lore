@@ -1,0 +1,12 @@
+{
+  "title": "A Organização de Viktor Petrov",
+  "description": "Lore da Bratva — Servidor de Roleplay",
+  "author": "Staff",
+  "language": "pt-br",
+  "plugins": ["theme-default"],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    }
+  }
+}
