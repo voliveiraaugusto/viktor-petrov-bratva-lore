@@ -1,29 +1,34 @@
 # Summary
 
-* [Introdução](README.md)
+* [A Bratva](README.md)
 
-## A História
+## História
 
-* [Origem](origem.md)
-* [Brighton Beach — O Começo](brighton-beach.md)
+* [Origens na União Soviética](historia/origens.md)
+* [Os Vory v Zakone](historia/vory-v-zakone.md)
+* [O Colapso da URSS](historia/colapso-urss.md)
+* [A Bratva em Nova York](historia/bratva-nova-york.md)
 
-## A Organização
+## Organização
 
-* [Estrutura e Hierarquia](estrutura.md)
-* [Forma de Atuação](atuacao.md)
-* [Território e Influência](territorio.md)
+* [Estrutura e Hierarquia](organizacao/estrutura.md)
+* [Código de Conduta](organizacao/codigo.md)
+* [Métodos de Operação](organizacao/metodos.md)
+* [Tatuagens e Símbolos](organizacao/tatuagens.md)
 
-## O Líder
+## A Célula de Viktor Petrov
 
-* [Filosofia de Viktor](filosofia.md)
-* [O Homem](o-homem.md)
+* [Viktor Petrov](viktor/perfil.md)
+* [A Célula de Brighton Beach](viktor/celula.md)
+* [Território e Operações](viktor/territorio.md)
+* [Aliados e Rivais](viktor/aliados-rivais.md)
 
-## O Mundo
+## Contexto
 
-* [Aliados e Inimigos](aliados-inimigos.md)
-* [Situação Atual (2000-2005)](situacao-atual.md)
+* [Nova York nos Anos 2000](contexto/nova-york-2000.md)
+* [O Submundo de Brooklyn](contexto/submundo-brooklyn.md)
 
 ## Apêndice
 
-* [Glossário da Bratva](glossario.md)
-* [Regras para Roleplay](regras-rp.md)
+* [Glossário](apendice/glossario.md)
+* [Guia de Roleplay](apendice/guia-rp.md)

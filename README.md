@@ -1,37 +1,45 @@
-# BRATVA
+# A Bratva
 
-> *"Nesta cidade, quem grita é o primeiro a cair. Nós não gritamos. Nós esperamos."*
+<figure><img src="https://images.unsplash.com/photo-1514580426463-fd5afa59e658?w=1400&q=80" alt="Moscou à noite — onde tudo começou"><figcaption>Moscou à noite — o berço da Bratva moderna</figcaption></figure>
 
----
+## Introdução
 
-ORGANIZAÇÃO     |     VIKTOR PETROV     |     BRATVA NYC
+A **Bratva** (Братва, "Irmandade") é o nome informal dado ao crime organizado russo — uma das maiores e mais complexas redes criminais do mundo. Diferente das máfias tradicionais como a Cosa Nostra italiana, a Bratva não é uma organização unificada. É uma **confederação descentralizada** de grupos criminais que compartilham origens culturais, códigos de conduta e métodos de operação.
 
----
+Suas raízes mergulham nos campos de trabalho forçado soviéticos — os *gulags* — onde uma aristocracia criminal se formou entre os prisioneiros, criando leis próprias, hierarquias e tradições que sobrevivem até hoje.
 
-Nova York. Início dos anos 2000.
-
-As famílias italianas sangravam. FBI, delações, guerras internas. O vácuo de poder era disputado por gangues barulhentas demais para sobreviver.
-
-Mas havia quem observasse em silêncio.
-
-Um restaurante sem placa na Neptune Avenue. Brighton Beach. Um homem de cabelos grisalhos bebia chá preto enquanto lia os classificados. Para os vizinhos, mais um imigrante. Para quem conhecia a verdade — alguém que jamais deveria ser subestimado.
-
-**VIKTOR PETROV.**
+> *"Na Rússia, o crime organizado não existe à margem do Estado. Ele cresceu dentro dele, como um parasita que se tornou maior que o hospedeiro."*
 
 ---
 
-> Invisibilidade é poder. Se a polícia sabe seu nome, você já perdeu.
+## Contexto desta Wiki
+
+Esta wiki documenta a lore de uma **célula operacional da Bratva em Nova York no início dos anos 2000**, liderada por **Viktor Petrov** — um ex-prisioneiro de gulag que construiu um pequeno império criminal nas sombras de Brighton Beach, Brooklyn.
+
+O conteúdo é dividido em:
+
+- **História** — As origens reais da Bratva, desde a URSS até a expansão global nos anos 90-2000
+- **Organização** — Como a Bratva funciona: hierarquia, códigos, métodos, símbolos
+- **A Célula de Viktor Petrov** — O grupo específico, seus membros, território e operações
+- **Contexto** — O cenário de Nova York nos anos 2000 que permite essa história existir
 
 ---
 
-NAVEGAÇÃO
+## Características Fundamentais
 
-- **A HISTÓRIA** — De Volgogrado a Nova York
-- **A ORGANIZAÇÃO** — Estrutura, operações, território
-- **O LÍDER** — Viktor Petrov
-- **O MUNDO** — Aliados, inimigos, cenário político
-- **APÊNDICE** — Glossário e regras RP
+| Aspecto | Bratva |
+|---------|--------|
+| **Estrutura** | Descentralizada — células independentes |
+| **Base cultural** | Código dos *vory v zakone* (ladrões na lei) |
+| **Territórios** | Global — Rússia, EUA, Europa, Israel |
+| **Operações principais** | Lavagem de dinheiro, contrabando, fraude financeira, extorsão |
+| **Violência** | Calculada e cirúrgica — nunca gratuita |
+| **Relação com Estado** | Infiltração profunda — não confronto direto |
 
 ---
 
-⟩   BRATVA NYC   ::   LORE DE FACÇÃO   ⟨
+<figure><img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1400&q=80" alt="Skyline de Nova York à noite"><figcaption>Nova York — onde a Bratva encontrou seu segundo lar</figcaption></figure>
+
+---
+
+> *"A Bratva não precisa dominar as ruas. Ela domina os negócios por trás delas."*
