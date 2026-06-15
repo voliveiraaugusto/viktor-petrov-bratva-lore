@@ -41,22 +41,6 @@ Diferente da Cosa Nostra com suas Cinco Famílias, a Bratva em Nova York opera c
 
 ---
 
-## A Célula de Viktor Petrov — Posição Atual
-
-No ecossistema da Bratva em Nova York, a célula de Viktor ocupa uma posição específica:
-
-**Tamanho:** ~20 membros ativos. Deliberadamente pequena.
-
-**Faturamento:** $2-5 milhões/ano limpos.
-
-**Especialidade:** Lavagem de dinheiro, contrabando via porto, fraude financeira.
-
-**Reputação:** Invisível para as autoridades. Respeitada entre pares. Nenhuma investigação ativa.
-
-**Diferencial:** A combinação Viktor-Yelena. Força e inteligência operando em simbiose perfeita. Ele é o nome que ninguém pronuncia. Ela é o olhar que ninguém percebe.
-
----
-
 ## Ameaças ao Status Quo
 
 A Bratva atual enfrenta desafios que não existiam nos anos 90:
@@ -65,45 +49,19 @@ A Bratva atual enfrenta desafios que não existiam nos anos 90:
 
 Após o 11 de Setembro, o governo americano expandiu massivamente a vigilância financeira. Leis anti-lavagem ficaram mais rígidas. O Patriot Act deu ao FBI ferramentas novas. A unidade de crime organizado eurasiano tem mais recursos que nunca.
 
-Para Viktor: cada transação precisa ser mais cuidadosa. Cada rota mais elaborada. Cada operação mais lenta.
-
 ### A Nova Geração
 
 Filhos de imigrantes russos nascidos nos EUA querem entrar no jogo. Mas não respeitam o código antigo. São impulsivos. Ostentam nas redes sociais. Usam celulares sem criptografia. Não entendem que silêncio é sobrevivência.
 
-Para Viktor: são recrutáveis em teoria, mas perigosos em prática. Um erro de um jovem impulsivo pode derrubar uma operação de anos.
-
 ### Competição Territorial
 
 A Cosa Nostra enfraqueceu — mas não morreu. A Família Colombo ainda observa Brighton Beach. Gangues de rua pressionam as bordas. Novos grupos (albaneses, chineses, nigerianos) disputam espaço no submundo de Nova York.
-
-Para Viktor: manter a paz é mais caro que antes. Cada aliança exige mais manutenção.
 
 ### Tecnologia como Arma de Dois Gumes
 
 Câmeras em toda parte. Reconhecimento facial. Interceptação de celulares. Análise de padrões financeiros por IA. O mundo ficou menor para quem quer se esconder.
 
 Mas também: criptomoedas facilitam lavagem. Dark web permite comércio anônimo. Ransomware gera receita sem risco físico. A Bratva que souber usar tecnologia terá vantagem.
-
----
-
-## Operações em Andamento
-
-### O Porto de Red Hook
-
-Continua sendo artéria principal de contrabando. O inspetor comprado permanece na folha. Mas a vigilância portuária aumentou pós-2001. Rotas alternativas via Newark estão sendo desenvolvidas.
-
-### A Lavanderia Financeira
-
-Os seis negócios de fachada (Restaurante Volga, Petrov Logistics, Petrov Car Service, dois lava-rápidos, Atlantic Motors) continuam operando normalmente. Receita inflada misturada com receita legítima. Contadores mantêm tudo dentro de parâmetros que não ativam alertas.
-
-### Expansão Digital (em desenvolvimento)
-
-Yelena tem pressionado Viktor a diversificar para o digital: fraude online, lavagem via criptomoedas, parcerias com hackers da antiga URSS. Viktor resiste — prefere o que conhece. Mas reconhece que o futuro é digital ou não é.
-
-### O Problema do Informante
-
-Rumores persistem: alguém na comunidade de Brighton Beach fala com federais. Se confirmado, será a maior crise interna da célula. Yelena investiga. Viktor espera. Mas a paciência tem limite.
 
 ---
 
