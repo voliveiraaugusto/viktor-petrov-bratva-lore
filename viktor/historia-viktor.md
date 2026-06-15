@@ -1,21 +1,21 @@
-# Viktor Petrov — A História do Pakhan
+# Viktor Petrov
 
-<figure><img src="../.gitbook/assets/cena-crime.jpg" alt="Cena sombria de crime"><figcaption>Viktor Petrov — o homem que ninguém vê, mas todos sentem</figcaption></figure>
+<figure><img src="../.gitbook/assets/gta5_brother_realistic.png" alt="Cena sombria de crime" width="375"><figcaption><p>Viktor Petrov — o homem que ninguém vê, mas todos sentem</p></figcaption></figure>
 
 ## Ficha
 
-| | |
-|---|---|
-| **Nome completo** | Viktor Ivanovich Petrov |
-| **Nascimento** | 1961 — Volgogrado, URSS |
-| **Posição** | Pakhan — líder da célula de Brighton Beach |
-| **Chegada aos EUA** | 1997 |
-| **Status criminal** | Nenhum registro nos EUA |
-| **Idiomas** | Russo (nativo), Inglês (funcional, com sotaque) |
-| **Residência** | Brighton Beach, Brooklyn |
-| **Fachada** | Empresário — dono do restaurante Volga |
+|                     |                                                 |
+| ------------------- | ----------------------------------------------- |
+| **Nome completo**   | Viktor Ivanovich Petrov                         |
+| **Nascimento**      | 1961 — Volgogrado, URSS                         |
+| **Posição**         | Pakhan — líder da célula de Brighton Beach      |
+| **Chegada aos EUA** | 1997                                            |
+| **Status criminal** | Nenhum registro nos EUA                         |
+| **Idiomas**         | Russo (nativo), Inglês (funcional, com sotaque) |
+| **Residência**      | Brighton Beach, Brooklyn                        |
+| **Fachada**         | Empresário — dono do restaurante Volga          |
 
----
+***
 
 ## Volgogrado, 1961
 
@@ -23,19 +23,19 @@ Viktor Ivanovich Petrov nasceu sete minutos depois da irmã gêmea, Yelena. Um d
 
 Porque o resto foi a Rússia.
 
----
+***
 
 ## A Infância de Concreto e Silêncio (1961-1978)
 
 Filho de Ivan Petrov, operário metalúrgico, e Natasha Petrova, professora primária. O apartamento era pequeno e frio. O dinheiro quase nunca suficiente. O pai chegava exausto demais para conversar. A mãe sobrevivia sem reclamar.
 
-Viktor aprendeu cedo que o mundo não dava nada de graça. Aprendeu também que era diferente dos outros garotos — não mais inteligente, não mais forte, mas mais *disposto*. Disposto a fazer o que outros hesitavam. Disposto a bater primeiro. Disposto a não pedir desculpas.
+Viktor aprendeu cedo que o mundo não dava nada de graça. Aprendeu também que era diferente dos outros garotos — não mais inteligente, não mais forte, mas mais _disposto_. Disposto a fazer o que outros hesitavam. Disposto a bater primeiro. Disposto a não pedir desculpas.
 
 Era duro. Impulsivo. Territorial. O tipo de garoto que outros evitavam sem saber exatamente por quê. Não era grande. Não era barulhento. Mas tinha algo nos olhos — uma calma estranha antes de agir — que fazia adultos desviarem o olhar.
 
 A única pessoa que nunca desviou foi Yelena. A irmã era seu oposto e seu complemento. Ela via o que ele não via. E ele protegia o que ela não conseguia proteger sozinha. Juntos desde o primeiro segundo de vida, desenvolveram uma linguagem própria feita de olhares, silêncios e lealdade absoluta.
 
----
+***
 
 ## O Mercado Negro — Primeiros Passos (1978-1983)
 
@@ -43,11 +43,11 @@ Aos 17 anos, Viktor entrou no mercado negro. Cigarros americanos. Moeda estrange
 
 Começou nas esquinas de Volgogrado com Yelena ao lado. Ela negociava. Ele garantia que ninguém tentasse enganá-los duas vezes. A reputação cresceu rápido: os gêmeos Petrov eram discretos, eficientes e absolutamente confiáveis — mas apenas entre si.
 
-Em dois anos, a operação passou de cigarros a eletrônicos, de esquinas a rotas entre cidades. Viktor descobriu algo sobre si mesmo nesse período: não era apenas bom em intimidar. Era bom em *organizar*. Em ver como peças se encaixavam. Em entender que o garoto que vendia na esquina 3 estava roubando, que o fornecedor de Rostov estava blefando sobre estoque, que a rota pelo norte era mais segura que a pelo sul.
+Em dois anos, a operação passou de cigarros a eletrônicos, de esquinas a rotas entre cidades. Viktor descobriu algo sobre si mesmo nesse período: não era apenas bom em intimidar. Era bom em _organizar_. Em ver como peças se encaixavam. Em entender que o garoto que vendia na esquina 3 estava roubando, que o fornecedor de Rostov estava blefando sobre estoque, que a rota pelo norte era mais segura que a pelo sul.
 
 Tinha 22 anos quando a polícia soviética o pegou.
 
----
+***
 
 ## O Gulag — O Que o Campo Fez (1983-1985)
 
@@ -66,15 +66,16 @@ Viktor observou. Aprendeu. Absorveu. Não se impôs — os vory desprezavam impu
 Recebeu sua primeira tatuagem: a **estrela de oito pontas** no antebraço esquerdo. Marca de quem passou pelo campo e saiu com honra. Marca que carregaria pelo resto da vida — nunca escondendo, nunca explicando.
 
 **O que o gulag ensinou a Viktor:**
-- Paciência é a arma de quem sabe que vai vencer
-- Silêncio é proteção — palavras são vulnerabilidade
-- O homem que controla informação controla tudo
-- Confiança absoluta existe apenas entre poucos — e esses poucos são tudo
-- Violência sem propósito é fraqueza, não força
+
+* Paciência é a arma de quem sabe que vai vencer
+* Silêncio é proteção — palavras são vulnerabilidade
+* O homem que controla informação controla tudo
+* Confiança absoluta existe apenas entre poucos — e esses poucos são tudo
+* Violência sem propósito é fraqueza, não força
 
 Quando saiu em 1985, Yelena percebeu imediatamente: o irmão que entrou não era o mesmo que voltou. Viktor estava mais silencioso. Mais frio. Mais difícil de alcançar. Algo dentro dele havia endurecido — não quebrado, endurecido. Como metal forjado sob pressão extrema.
 
----
+***
 
 ## A Rússia em Chamas (1985-1995)
 
@@ -88,7 +89,7 @@ Yelena permaneceu ao lado dele em cada etapa. Organizando. Percebendo ameaças. 
 
 Viktor acumulou capital. Construiu reputação. Estabeleceu-se como homem confiável — não no sentido moral, mas no sentido operacional. Quem fazia negócio com Petrov recebia o combinado. Quem traía Petrov desaparecia.
 
----
+***
 
 ## São Petersburgo — A Noite que Endureceu o Aço (1995)
 
@@ -101,15 +102,16 @@ Viktor ajoelhou-se naquele chão frio e algo dentro dele mudou permanentemente.
 Até aquela noite, acreditava que inteligência, planejamento e controle eram suficientes para proteger quem importava. Naquela noite aprendeu que não eram. Que o mundo sempre encontraria formas de alcançar a única pessoa que realmente importava para ele.
 
 **Depois de São Petersburgo, Viktor se tornou:**
-- Obsessivamente protetor com Yelena
-- Incapaz de confiar em reuniões que não controlava completamente
-- Mais lento nas decisões — cada movimento calculado três vezes
-- Mais violento nas consequências — quem ameaçava os seus não recebia segundo aviso
-- Convicto de que precisava de um lugar onde pudesse controlar todas as variáveis
+
+* Obsessivamente protetor com Yelena
+* Incapaz de confiar em reuniões que não controlava completamente
+* Mais lento nas decisões — cada movimento calculado três vezes
+* Mais violento nas consequências — quem ameaçava os seus não recebia segundo aviso
+* Convicto de que precisava de um lugar onde pudesse controlar todas as variáveis
 
 Dois anos depois, decidiu: América. Um lugar novo. Regras novas. Distância dos rivais russos. Possibilidade de construir algo que ele controlasse completamente.
 
----
+***
 
 ## Nova York — O Começo Silencioso (1997-1998)
 
@@ -123,7 +125,7 @@ Mas Viktor estava memorizando tudo. O inspetor de carga que bebia demais no bar 
 
 Peça por peça. Tijolo por tijolo. Em silêncio.
 
----
+***
 
 ## A Construção do Império (1998-2000)
 
@@ -139,7 +141,7 @@ Em dois anos, a célula estava operacional. Vinte homens. Três equipes. Seis ne
 
 Viktor Petrov havia construído exatamente o que queria: um império invisível.
 
----
+***
 
 ## O Pakhan (2000-presente)
 
@@ -152,13 +154,14 @@ Não usa joias. Não dirige carros caros. Não frequenta clubes. Não tem redes 
 E é exatamente isso que o torna o homem mais perigoso de Brighton Beach.
 
 **O que Viktor se tornou:**
-- Um líder que comanda por respeito, não por medo
-- Um estrategista que pensa em sistemas, não em ações isoladas
-- Um protetor da comunidade que o esconde
-- Um fantasma para as autoridades que não sabem que ele existe
-- Um irmão que nunca perdoou a si mesmo por São Petersburgo
 
----
+* Um líder que comanda por respeito, não por medo
+* Um estrategista que pensa em sistemas, não em ações isoladas
+* Um protetor da comunidade que o esconde
+* Um fantasma para as autoridades que não sabem que ele existe
+* Um irmão que nunca perdoou a si mesmo por São Petersburgo
+
+***
 
 ## O Homem por Trás do Pakhan
 
@@ -172,12 +175,12 @@ Viktor não se considera criminoso. Considera-se sobrevivente. O Estado soviéti
 
 Não busca poder pelo poder. Busca segurança e controle. Para si. Para Yelena. Para quem lhe é leal.
 
----
+***
 
-> *"Eu não escolhi este caminho. Este caminho me escolheu. Mas agora que estou nele, caminho melhor do que qualquer um."*
+> _"Eu não escolhi este caminho. Este caminho me escolheu. Mas agora que estou nele, caminho melhor do que qualquer um."_
 
-> *"Se a polícia sabe seu nome, você já perdeu."*
+> _"Se a polícia sabe seu nome, você já perdeu."_
 
-> *"Paciência não é fraqueza. É a arma de quem sabe que vai vencer."*
+> _"Paciência não é fraqueza. É a arma de quem sabe que vai vencer."_
 
-> *"Nasci sete minutos depois dela. Passei a vida inteira tentando compensar esses sete minutos."*
+> _"Nasci sete minutos depois dela. Passei a vida inteira tentando compensar esses sete minutos."_

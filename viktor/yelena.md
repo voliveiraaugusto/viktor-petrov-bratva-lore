@@ -1,21 +1,21 @@
 # Yelena Petrova
 
-<figure><img src="../.gitbook/assets/nyc-anos90.webp" alt="Yelena Petrova"><figcaption>Yelena Petrova — a sombra ao lado do Pakhan</figcaption></figure>
+<figure><img src="../.gitbook/assets/gta5_sister_realistic.png" alt="Yelena Petrova" width="375"><figcaption><p>Yelena Petrova — a sombra ao lado do Pakhan</p></figcaption></figure>
 
 ## Ficha
 
-| | |
-|---|---|
-| **Nome completo** | Yelena Ivanovna Petrova |
-| **Nascimento** | 1961 — Volgogrado, URSS (7 minutos antes de Viktor) |
-| **Posição** | Sovetnik — Conselheira do Pakhan |
-| **Chegada aos EUA** | 1997 |
-| **Status criminal** | Nenhum registro |
-| **Idiomas** | Russo (nativo), Inglês (fluente) |
-| **Residência** | Brighton Beach, Brooklyn |
-| **Fachada** | Administradora — gerencia operações financeiras do Volga |
+|                     |                                                          |
+| ------------------- | -------------------------------------------------------- |
+| **Nome completo**   | Yelena Ivanovna Petrova                                  |
+| **Nascimento**      | 1961 — Volgogrado, URSS (7 minutos antes de Viktor)      |
+| **Posição**         | Sovetnik — Conselheira do Pakhan                         |
+| **Chegada aos EUA** | 1997                                                     |
+| **Status criminal** | Nenhum registro                                          |
+| **Idiomas**         | Russo (nativo), Inglês (fluente)                         |
+| **Residência**      | Brighton Beach, Brooklyn                                 |
+| **Fachada**         | Administradora — gerencia operações financeiras do Volga |
 
----
+***
 
 ## Biografia
 
@@ -65,7 +65,7 @@ Os gêmeos emigraram juntos para Brighton Beach. Enquanto Viktor construía a c�
 
 Naturalmente tornou-se Sovetnik. Não porque desejasse liderança — mas porque Viktor confiava no julgamento dela mais do que no próprio.
 
----
+***
 
 ## Perfil Psicológico
 
@@ -81,7 +81,7 @@ Naturalmente tornou-se Sovetnik. Não porque desejasse liderança — mas porque
 
 **Fraqueza:** Viktor. A ligação com o irmão é absoluta. Se ele cair, ela provavelmente continuaria viva apenas por costume.
 
----
+***
 
 ## Aparência e Hábitos
 
@@ -90,48 +90,49 @@ Naturalmente tornou-se Sovetnik. Não porque desejasse liderança — mas porque
 **Vestuário:** Roupas sóbrias, funcionais. Nunca ostentação. Sempre com um casaco — mesmo quando não faz frio.
 
 **Rotina:**
-- Sempre acorda antes de Viktor
-- Primeira a chegar ao Volga, última a sair
-- Toma chá constantemente — nunca café
-- Observa todas as reuniões, raramente fala durante
-- Caminha pela orla sozinha ao final do dia
+
+* Sempre acorda antes de Viktor
+* Primeira a chegar ao Volga, última a sair
+* Toma chá constantemente — nunca café
+* Observa todas as reuniões, raramente fala durante
+* Caminha pela orla sozinha ao final do dia
 
 **Marca:** Cicatriz fina na palma da mão esquerda. São Petersburgo. Nunca esconde, nunca explica.
 
----
+***
 
 ## Papel na Célula
 
 Yelena não opera diretamente. Ela **observa, analisa e aconselha**:
 
-- Avalia novos recrutas antes de Viktor aceitá-los
-- Detecta mentiras e deslealdade antes que se tornem ameaças
-- Media conflitos internos com calma cirúrgica
-- Mantém a "memória" da organização — quem disse o quê, quando, por quê
-- É a única pessoa que pode dizer "não" a Viktor e ser ouvida
+* Avalia novos recrutas antes de Viktor aceitá-los
+* Detecta mentiras e deslealdade antes que se tornem ameaças
+* Media conflitos internos com calma cirúrgica
+* Mantém a "memória" da organização — quem disse o quê, quando, por quê
+* É a única pessoa que pode dizer "não" a Viktor e ser ouvida
 
----
+***
 
 ## A Ligação com Viktor
 
 A relação entre os gêmeos é o centro gravitacional da célula. Não é hierárquica — é **simbiótica**.
 
-Viktor entende poder. Yelena entende pessoas.
-Viktor controla o mundo externo. Yelena percebe quando o mundo externo está prestes a se mover.
-Viktor protege Yelena obsessivamente. Yelena protege Viktor de si mesmo.
+Viktor entende poder. Yelena entende pessoas. Viktor controla o mundo externo. Yelena percebe quando o mundo externo está prestes a se mover. Viktor protege Yelena obsessivamente. Yelena protege Viktor de si mesmo.
 
 Dentro da Bratva, todos sabem: mexer com Yelena é a forma mais rápida de desaparecer. Não por ordem dela — por ordem dele.
 
----
+***
 
 ## Filosofia
 
-> *"Eu não preciso que o mundo me tema. Preciso apenas perceber o medo nos outros antes deles perceberem em si mesmos."*
+> _"Sete minutos mais velha. Tempo suficiente para achar que ainda tenho o direito de dizer quando ele está sendo idiota."_
 
-> *"Viktor é a força. Eu sou o motivo pelo qual a força é aplicada no lugar certo."*
+> _"_&#x45;u não entro em guerra por orgulho. Só entro quando não existe outra saída._"_
 
-> *"Sete minutos. Nasci sete minutos antes dele. E nunca deixei de estar à frente."*
+> _"_&#x4E;ão sou a pessoa mais calma da sala. Só sou a que percebe as coisas primeiro._"_
 
----
+> Muitos tentaram atingir Viktor através dela. Poucos sobreviveram para tentar de novo.
 
-> *"Se Viktor é o punho da Bratva, Yelena é o olhar que decide onde o punho cai."*
+***
+
+> _"Se Viktor é o punho da Bratva, Yelena é o olhar que decide onde o punho cai."_

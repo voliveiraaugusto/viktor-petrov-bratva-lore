@@ -1,12 +1,12 @@
 # O Submundo de Brooklyn
 
-<figure><img src="../.gitbook/assets/nyc-anos90.webp" alt="Brooklyn Bridge anos 90 com Twin Towers"><figcaption>Brooklyn — onde cada bairro pertence a alguém</figcaption></figure>
+<figure><img src="../.gitbook/assets/moscou.jpg" alt="Brooklyn Bridge anos 90 com Twin Towers"><figcaption><p>Brooklyn — onde cada bairro pertence a alguém</p></figcaption></figure>
 
 ## Geografia Criminal
 
-Brooklyn é o borough mais populoso de Nova York (~2.5 milhões em 2000) e também o mais diverso criminalmente. Cada bairro tem suas próprias dinâmicas, seus próprios grupos e suas próprias regras.
+Brooklyn é o borough mais populoso de Nova York (\~2.5 milhões em 2000) e também o mais diverso criminalmente. Cada bairro tem suas próprias dinâmicas, seus próprios grupos e suas próprias regras.
 
----
+***
 
 ## Mapa do Submundo (c. 2002)
 
@@ -36,7 +36,7 @@ Brooklyn é o borough mais populoso de Nova York (~2.5 milhões em 2000) e tamb�
 
 **Park Slope / Carroll Gardens** — Gentrificação avançada. Historicamente italiano — ainda com presença residual da Cosa Nostra em negócios antigos.
 
----
+***
 
 ## Regras Não Escritas
 
@@ -48,20 +48,20 @@ O submundo de Brooklyn funciona com regras implícitas que todos os grupos respe
 4. **Polícia tem preço** — Quem pode, compra. Quem não pode, evita.
 5. **Prisão é custo de negócio** — Aceita-se sem delatar
 
----
+***
 
 ## A Posição de Viktor
 
 No ecossistema criminal de Brooklyn, Viktor ocupa uma posição **singular**:
 
-- **Não compete** com gangues de rua (não vende drogas, não disputa esquinas)
-- **Não ameaça** os italianos diretamente (não invade seus negócios tradicionais)
-- **Oferece serviços** que todos precisam (lavagem, armas, documentos, contatos)
+* **Não compete** com gangues de rua (não vende drogas, não disputa esquinas)
+* **Não ameaça** os italianos diretamente (não invade seus negócios tradicionais)
+* **Oferece serviços** que todos precisam (lavagem, armas, documentos, contatos)
 
 Isso o torna simultaneamente **útil** para vários grupos e **ameaçador** para nenhum — a posição ideal. Enquanto mantiver esse equilíbrio, a célula sobrevive.
 
 O risco: crescer demais. Se Viktor ficar grande o suficiente para ser notado — seja pelos italianos, pelo FBI ou pela própria comunidade — a invisibilidade que o protege desaparece.
 
----
+***
 
-> *"Em Brooklyn, cada quarteirão tem um dono. O segredo é ser o dono que ninguém sabe que existe."*
+> _"Em Brooklyn, cada quarteirão tem um dono. O segredo é ser o dono que ninguém sabe que existe."_

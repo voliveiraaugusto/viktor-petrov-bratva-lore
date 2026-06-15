@@ -1,14 +1,14 @@
-# Os Gêmeos Petrov — Uma História de Sangue e Silêncio
+# Os Gêmeos Petrov
 
-<figure><img src="../.gitbook/assets/cena-crime.jpg" alt="Sombras em rua escura"><figcaption>Dois nasceram juntos. Dois sobreviveram juntos. Dois construíram um império juntos.</figcaption></figure>
+<figure><img src="../.gitbook/assets/gta5_twins_realistic.png" alt="Sombras em rua escura"><figcaption><p>Dois nasceram juntos. Dois sobreviveram juntos. Dois construíram um império juntos.</p></figcaption></figure>
 
 ## Volgogrado, 1961
 
-Nasceram com sete minutos de diferença em um hospital público de Volgogrado. Yelena primeiro. Viktor depois. O pai estava trabalhando no turno da noite na metalúrgica quando recebeu a notícia. Chegou ao hospital de manhã, com graxa nas mãos e olheiras profundas. Segurou os dois ao mesmo tempo — um em cada braço — e disse apenas: *"Dois. Bom. Vão se proteger."*
+Nasceram com sete minutos de diferença em um hospital público de Volgogrado. Yelena primeiro. Viktor depois. O pai estava trabalhando no turno da noite na metalúrgica quando recebeu a notícia. Chegou ao hospital de manhã, com graxa nas mãos e olheiras profundas. Segurou os dois ao mesmo tempo — um em cada braço — e disse apenas: _"Dois. Bom. Vão se proteger."_
 
 Ele não sabia o quanto aquela frase definiria o resto de suas vidas.
 
----
+***
 
 ## A Infância que Não Existiu (1961-1978)
 
@@ -26,7 +26,7 @@ Eram crianças operando com lógica de adultos: o mundo vinha contra os dois —
 
 Foram se moldando mutuamente. Yelena ensinou Viktor a observar antes de agir. Viktor ensinou Yelena que algumas pessoas só respeitavam força. Sozinhos, eram incompletos. Juntos, eram perigosos.
 
----
+***
 
 ## O Mercado Negro (1978-1983)
 
@@ -34,15 +34,15 @@ Aos 17 anos, começaram juntos. Cigarros estrangeiros. Álcool. Moeda ilegal. N�
 
 Mas mesmo adolescentes, já funcionavam de maneira assustadoramente sincronizada:
 
-- Viktor intimidava. Yelena negociava.
-- Viktor pressionava. Yelena percebia quando alguém estava prestes a ceder.
-- Viktor carregava a mercadoria. Yelena escolhia a rota.
+* Viktor intimidava. Yelena negociava.
+* Viktor pressionava. Yelena percebia quando alguém estava prestes a ceder.
+* Viktor carregava a mercadoria. Yelena escolhia a rota.
 
 Os fornecedores locais começaram a perceber: os gêmeos Petrov eram confiáveis. Discretos. Eficientes. E completamente leais — mas apenas entre si.
 
 A operação cresceu. De cigarros passou a eletrônicos. De esquinas passou a rotas entre cidades. De dois adolescentes passou a uma pequena rede com meia dúzia de associados. Tudo com uma regra implícita: Viktor mandava. Yelena aconselhava. Ninguém questionava nenhum dos dois.
 
----
+***
 
 ## A Primeira Separação (1983-1985)
 
@@ -50,21 +50,19 @@ Em 1983, Viktor foi preso por comércio ilegal de moeda estrangeira. Sentenciado
 
 Foi a primeira vez que ficaram separados.
 
-**Viktor no gulag:**
-O campo transformou Viktor. Entrou como jovem operador do mercado negro. Saiu como algo diferente. Dentro do gulag, encontrou os *vory v zakone* — os ladrões na lei. Absorveu o código. A hierarquia. A disciplina. A frieza necessária para sobreviver entre homens que matavam por uma porção extra de sopa.
+**Viktor no gulag:** O campo transformou Viktor. Entrou como jovem operador do mercado negro. Saiu como algo diferente. Dentro do gulag, encontrou os _vory v zakone_ — os ladrões na lei. Absorveu o código. A hierarquia. A disciplina. A frieza necessária para sobreviver entre homens que matavam por uma porção extra de sopa.
 
 Recebeu sua primeira tatuagem: a estrela de oito pontas no antebraço. Marca de quem passou pelo campo e sobreviveu com honra.
 
 Quando saiu, estava mais silencioso. Mais frio. Mais difícil de alcançar.
 
-**Yelena do lado de fora:**
-A ausência de Viktor foi a primeira vez que Yelena precisou existir sem escudo. Trabalhou cada vez mais perto do submundo soviético enquanto esperava o irmão voltar. Aprendeu a lidar com homens perigosos sozinha. Negociar informações. Calcular riscos.
+**Yelena do lado de fora:** A ausência de Viktor foi a primeira vez que Yelena precisou existir sem escudo. Trabalhou cada vez mais perto do submundo soviético enquanto esperava o irmão voltar. Aprendeu a lidar com homens perigosos sozinha. Negociar informações. Calcular riscos.
 
 Não se diminuiu. Cresceu. Construiu contatos, favores devidos, informações guardadas. Quando Viktor voltou... encontrou uma irmã diferente. Não mais frágil. Não mais dependente. Uma igual.
 
 E ela foi a única pessoa capaz de alcançar as partes dele que o gulag ainda não havia congelado completamente.
 
----
+***
 
 ## O Caos que Alimentou a Ascensão (1985-1994)
 
@@ -72,14 +70,13 @@ A União Soviética desmoronava. E os gêmeos Petrov surfaram o caos como se tiv
 
 Contrabando em escala industrial. Fraudes financeiras. Negociações com militares corruptos vendendo arsenal do Exército Vermelho. Operações com bancos não regulados. Dinheiro entrando e saindo de fronteiras que mal existiam mais.
 
-Viktor era a força. A presença. O nome que fazia homens recuarem.
-Yelena era a inteligência. A estratégia. O olhar que encontrava a fraqueza antes de Viktor precisar aplicar pressão.
+Viktor era a força. A presença. O nome que fazia homens recuarem. Yelena era a inteligência. A estratégia. O olhar que encontrava a fraqueza antes de Viktor precisar aplicar pressão.
 
 Juntos, tornaram-se extremamente eficientes. E extremamente perigosos.
 
 Nesse período, a relação entre eles solidificou-se em algo que ia além de família. Era simbiose. Dependência mútua elevada a princípio de sobrevivência. Viktor não tomava decisões importantes sem ouvir Yelena. Yelena não operava sem a proteção implícita do nome de Viktor.
 
----
+***
 
 ## São Petersburgo — A Noite que Mudou Tudo (1995)
 
@@ -113,7 +110,7 @@ Yelena mudou também. Ficou mais silenciosa — não fria, não distante, mas si
 
 A culpa de Viktor ficou viva dentro dele por anos. Yelena percebia isso claramente. E talvez o mais doloroso: ela entendia exatamente o motivo.
 
----
+***
 
 ## A Travessia (1997)
 
@@ -127,25 +124,24 @@ Viktor via estrutura onde outros viam confusão. Yelena percebia vulnerabilidade
 
 Lentamente, começaram a construir.
 
----
+***
 
 ## Brighton Beach — O Império Silencioso (1998-presente)
 
-Viktor tornou-se Pakhan. Controlado. Respeitado. Temido.
-Yelena tornou-se Sovetnik. Calma. Educada. Difícil de intimidar.
+Viktor tornou-se Pakhan. Controlado. Respeitado. Temido. Yelena tornou-se Sovetnik. Calma. Educada. Difícil de intimidar.
 
 A célula cresceu sob a lógica dos gêmeos: invisibilidade, compartimentalização, paciência. Vinte homens confiáveis valendo mais que duzentos suspeitos.
 
 Dentro da organização, a dinâmica entre Viktor e Yelena era conhecida mas nunca comentada em voz alta. Todos sabiam:
 
-- Yelena era a única pessoa que chamava o Pakhan de "Viktor"
-- Era a única que podia dizer "não" e ser ouvida
-- Era a única que percebia quando ele estava cansado ou preocupado
-- Era a única capaz de fazê-lo baixar a guarda — mesmo por segundos
+* Yelena era a única pessoa que chamava o Pakhan de "Viktor"
+* Era a única que podia dizer "não" e ser ouvida
+* Era a única que percebia quando ele estava cansado ou preocupado
+* Era a única capaz de fazê-lo baixar a guarda — mesmo por segundos
 
 E todos sabiam também: mexer com Yelena era assinar a própria execução. Não por ordem dela. Por instinto dele.
 
----
+***
 
 ## O Elo Impossível de Quebrar
 
@@ -157,7 +153,6 @@ E os dois sabiam — com a certeza silenciosa de quem compartilhou sangue desde 
 
 Se um deles caísse, o outro provavelmente continuaria vivo apenas por costume.
 
----
+***
 
-> *"Nascemos juntos. Sobrevivemos juntos. Se o mundo quiser nos separar, vai precisar matar os dois ao mesmo tempo. E mesmo assim, eu não apostaria contra nós."*
-> — Viktor Petrov
+> _"Nascemos juntos. Sobrevivemos juntos. Se o mundo quiser nos separar, vai precisar matar os dois ao mesmo tempo. E mesmo assim, eu não apostaria contra nós."_ — Viktor Petrov
