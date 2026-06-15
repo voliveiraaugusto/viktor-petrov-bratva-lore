@@ -1,6 +1,6 @@
 # Tatuagens e Símbolos
 
-<figure><img src="https://images.unsplash.com/photo-1611501275019-9b5cda994e8d?w=1400&q=80" alt="Tatuagens em preto e branco"><figcaption>Na Bratva, cada marca na pele é uma frase — e mentir com a pele custa caro</figcaption></figure>
+<figure><img src="../.gitbook/assets/tatuagens-vory.jpg" alt="Tatuagens criminais russas"><figcaption>Na Bratva, cada marca na pele é uma frase — e mentir com a pele custa caro</figcaption></figure>
 
 ## O Sistema de Tatuagens Criminais Russas
 

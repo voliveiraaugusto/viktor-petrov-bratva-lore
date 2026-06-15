@@ -1,6 +1,6 @@
 # Nova York nos Anos 2000
 
-<figure><img src="https://images.unsplash.com/photo-1485738422979-f5c462d49f04?w=1400&q=80" alt="Nova York skyline anos 2000"><figcaption>Nova York no início do milênio — uma cidade em transição</figcaption></figure>
+<figure><img src="../.gitbook/assets/nova-york-skyline.jpg" alt="Nova York skyline"><figcaption>Nova York no início do milênio — uma cidade em transição</figcaption></figure>
 
 ## O Cenário
 

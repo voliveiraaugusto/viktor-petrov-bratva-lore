@@ -1,6 +1,6 @@
 # Estrutura e Hierarquia
 
-<figure><img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1400&q=80" alt="Homem de terno nas sombras"><figcaption>A hierarquia da Bratva opera nas sombras — invisível mas absoluta</figcaption></figure>
+<figure><img src="../.gitbook/assets/privatizacao-russia.jpg" alt="Privatização na Rússia anos 90"><figcaption>A hierarquia da Bratva opera nas sombras — invisível mas absoluta</figcaption></figure>
 
 ## Organização Descentralizada
 
@@ -66,7 +66,7 @@ O degrau mais baixo. "Número seis" — faz trabalhos sujos sem conhecer nada da
 
 ## O Obshchak (Общак) — O Fundo Comum
 
-<figure><img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1400&q=80" alt="Cofre"><figcaption>O obshchak é sagrado — roubar dele é sentença de morte</figcaption></figure>
+<figure><img src="../.gitbook/assets/bratva-logo.jpg" alt="O obshchak é sagrado"><figcaption>O obshchak é sagrado — roubar dele é sentença de morte</figcaption></figure>
 
 Toda célula mantém um **obshchak** — um fundo comum alimentado por porcentagem dos lucros de cada operação. Este dinheiro é usado para:
 

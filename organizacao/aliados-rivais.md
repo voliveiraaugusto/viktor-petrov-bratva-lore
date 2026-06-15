@@ -1,6 +1,6 @@
 # Aliados e Rivais
 
-<figure><img src="https://images.unsplash.com/photo-1529088363460-43af735fa1b4?w=1400&q=80" alt="Xadrez peças"><figcaption>No submundo de Nova York, cada relação é uma peça no tabuleiro</figcaption></figure>
+<figure><img src="../.gitbook/assets/vory-grupo.jpg" alt="Grupo de vory tatuados"><figcaption>No submundo de Nova York, cada relação é uma peça no tabuleiro</figcaption></figure>
 
 ## Aliados
 

@@ -1,6 +1,6 @@
 # O Colapso da URSS
 
-<figure><img src="https://images.unsplash.com/photo-1548249399-603c4056bfc3?w=1400&q=80" alt="Ruínas industriais"><figcaption>O colapso industrial soviético — caos para milhões, oportunidade para poucos</figcaption></figure>
+<figure><img src="../.gitbook/assets/colapso-urss.webp" alt="Colapso da URSS - multidão em protesto"><figcaption>O colapso industrial soviético — caos para milhões, oportunidade para poucos</figcaption></figure>
 
 ## 1991 — O Fim de um Mundo
 
@@ -50,7 +50,7 @@ Para os criminosos profissionais — os vory, os ex-prisioneiros, os operadores 
 
 ## A Diáspora Criminal
 
-<figure><img src="https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=1400&q=80" alt="Avião em voo"><figcaption>A Bratva se globalizou junto com a diáspora russa</figcaption></figure>
+<figure><img src="../.gitbook/assets/moscou.jpg" alt="Moscou - rio e Kremlin"><figcaption>A Bratva se globalizou junto com a diáspora russa</figcaption></figure>
 
 O colapso também gerou uma **onda migratória massiva**. Milhões de cidadãos ex-soviéticos emigraram para o Ocidente entre 1989-2000. Entre eles — engenheiros, médicos, professores, artistas. Mas também:
 

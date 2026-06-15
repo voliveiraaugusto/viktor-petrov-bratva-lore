@@ -1,6 +1,6 @@
 # A Célula de Brighton Beach
 
-<figure><img src="https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=1400&q=80" alt="Rua urbana à noite com neon"><figcaption>Brighton Beach — onde o inglês é a segunda língua e o silêncio é a primeira regra</figcaption></figure>
+<figure><img src="../.gitbook/assets/brighton-beach.jpg" alt="Brighton Beach"><figcaption>Brighton Beach — onde o inglês é a segunda língua e o silêncio é a primeira regra</figcaption></figure>
 
 ## Visão Geral
 
@@ -110,7 +110,7 @@ O processo é lento e gradual: primeiro trabalhos pequenos (shestyorka), depois 
 > *"Vinte homens que confiam uns nos outros valem mais que duzentos que se vigiam."*
 # Território e Operações
 
-<figure><img src="https://images.unsplash.com/photo-1569336415962-a4bd9f69cd83?w=1400&q=80" alt="Brooklyn street"><figcaption>Sul do Brooklyn — onde cada quarteirão tem um dono que ninguém vê</figcaption></figure>
+<figure><img src="../.gitbook/assets/brooklyn-bridge.webp" alt="Brooklyn"><figcaption>Sul do Brooklyn — onde cada quarteirão tem um dono que ninguém vê</figcaption></figure>
 
 ## Zona de Operação
 

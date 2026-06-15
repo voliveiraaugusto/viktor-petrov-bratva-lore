@@ -1,6 +1,6 @@
 # Origens na União Soviética
 
-<figure><img src="https://images.unsplash.com/photo-1513326738677-b964603b136d?w=1400&q=80" alt="Paisagem soviética industrial"><figcaption>A Rússia industrial soviética — berço de uma cultura criminal única</figcaption></figure>
+<figure><img src="../.gitbook/assets/revolucao-russa.webp" alt="Revolução Russa"><figcaption>A Rússia — berço de uma cultura criminal única</figcaption></figure>
 
 ## O Nascimento do Crime Organizado Russo
 
@@ -17,7 +17,7 @@ A União Soviética, com seu controle total sobre a economia, criou involuntaria
 
 ## Os Gulags como Universidades
 
-<figure><img src="https://images.unsplash.com/photo-1551845041-63e8e76836ea?w=1400&q=80" alt="Arame farpado em paisagem gelada"><figcaption>Os campos de trabalho forçado — onde nasceu o código dos vory</figcaption></figure>
+<figure><img src="../.gitbook/assets/gulag-portao.webp" alt="Portão de Gulag na neve"><figcaption>Os campos de trabalho forçado — onde nasceu o código dos vory</figcaption></figure>
 
 Os **Gulags** (Главное Управление Лагерей — Administração Central de Campos) eram o sistema de trabalho forçado soviético. Entre 1930 e 1953, estima-se que **18 milhões de pessoas** passaram pelos campos. As condições eram brutais: frio extremo, trabalho pesado, fome e violência constante.
 

@@ -1,6 +1,6 @@
 # Os Vory v Zakone
 
-<figure><img src="https://images.unsplash.com/photo-1590012314607-cda9d9b699ae?w=1400&q=80" alt="Mãos tatuadas"><figcaption>As tatuagens dos vory contam sua história sem palavras</figcaption></figure>
+<figure><img src="../.gitbook/assets/gulag-trabalho.jpg" alt="Trabalho forçado em gulag"><figcaption>As tatuagens dos vory contam sua história sem palavras</figcaption></figure>
 
 ## Os Ladrões na Lei
 
@@ -48,7 +48,7 @@ As punições variam conforme a gravidade:
 
 ## A Guerra das Cadelas (Suchya Voyna)
 
-<figure><img src="https://images.unsplash.com/photo-1453873531674-2151bcd01707?w=1400&q=80" alt="Prisão escura"><figcaption>Os gulags do pós-guerra — cenário da guerra que dividiu os vory</figcaption></figure>
+<figure><img src="../.gitbook/assets/gulag-prisioneiros.jpg" alt="Prisioneiros em gulag russo"><figcaption>Os gulags do pós-guerra — cenário da guerra que dividiu os vory</figcaption></figure>
 
 Durante a Segunda Guerra Mundial (1941-45), o governo soviético ofereceu aos prisioneiros dos gulags uma proposta: **lutar no front em troca de liberdade**. Muitos vory aceitaram — violando diretamente o código que proibia cooperação com o Estado.
 

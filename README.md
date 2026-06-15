@@ -1,6 +1,6 @@
 # A Bratva
 
-<figure><img src="https://images.unsplash.com/photo-1514580426463-fd5afa59e658?w=1400&q=80" alt="Moscou à noite — onde tudo começou"><figcaption>Moscou à noite — o berço da Bratva moderna</figcaption></figure>
+<figure><img src=".gitbook/assets/moscou.jpg" alt="Moscou — onde tudo começou"><figcaption>Moscou — o berço da Bratva moderna</figcaption></figure>
 
 ## Introdução
 
@@ -38,7 +38,7 @@ O conteúdo é dividido em:
 
 ---
 
-<figure><img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1400&q=80" alt="Skyline de Nova York à noite"><figcaption>Nova York — onde a Bratva encontrou seu segundo lar</figcaption></figure>
+<figure><img src=".gitbook/assets/nova-york-skyline.jpg" alt="Skyline de Nova York"><figcaption>Nova York — onde a Bratva encontrou seu segundo lar</figcaption></figure>
 
 ---
 

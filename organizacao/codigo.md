@@ -1,6 +1,6 @@
 # Código de Conduta
 
-<figure><img src="https://images.unsplash.com/photo-1494252713559-f26b4bf0b174?w=1400&q=80" alt="Cruz ortodoxa russa"><figcaption>O código da Bratva tem raízes quase religiosas — uma fé no submundo</figcaption></figure>
+<figure><img src="../.gitbook/assets/homem-epoca.jpg" alt="Código da Bratva"><figcaption>O código da Bratva tem raízes quase religiosas — uma fé no submundo</figcaption></figure>
 
 ## As Leis Não Escritas
 
