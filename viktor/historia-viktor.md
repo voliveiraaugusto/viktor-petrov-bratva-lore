@@ -2,6 +2,21 @@
 
 <figure><img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1400&q=80" alt="Homem de meia idade em sombra"><figcaption>Viktor Petrov — o homem que ninguém vê, mas todos sentem</figcaption></figure>
 
+## Ficha
+
+| | |
+|---|---|
+| **Nome completo** | Viktor Ivanovich Petrov |
+| **Nascimento** | 1961 — Volgogrado, URSS |
+| **Posição** | Pakhan — líder da célula de Brighton Beach |
+| **Chegada aos EUA** | 1997 |
+| **Status criminal** | Nenhum registro nos EUA |
+| **Idiomas** | Russo (nativo), Inglês (funcional, com sotaque) |
+| **Residência** | Brighton Beach, Brooklyn |
+| **Fachada** | Empresário — dono do restaurante Volga |
+
+---
+
 ## Volgogrado, 1961
 
 Viktor Ivanovich Petrov nasceu sete minutos depois da irmã gêmea, Yelena. Um detalhe que ela nunca o deixou esquecer. Ele respondia que sete minutos não davam autoridade nenhuma a ninguém. Anos depois, já adulto, ainda revirava os olhos quando ela começava com aquilo. Era uma das poucas levezas que sobreviveram entre os dois.

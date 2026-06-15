@@ -2,18 +2,19 @@
 
 * [A Bratva](README.md)
 
-## História
+## História da Bratva
 
 * [Origens na União Soviética](historia/origens.md)
 * [Os Vory v Zakone](historia/vory-v-zakone.md)
 * [O Colapso da URSS](historia/colapso-urss.md)
 * [A Bratva em Nova York](historia/bratva-nova-york.md)
-* [Os Gêmeos Petrov](historia/gemeos-petrov.md)
-
-## A Bratva — Passado e Presente
-
-* [História Passada](historia/bratva-passado.md)
 * [A Bratva Hoje](historia/bratva-presente.md)
+
+## Viktor e Yelena
+
+* [Viktor Petrov](viktor/historia-viktor.md)
+* [Yelena Petrova](viktor/yelena.md)
+* [Os Gêmeos Petrov](viktor/gemeos-petrov.md)
 
 ## Organização
 
@@ -21,15 +22,8 @@
 * [Código de Conduta](organizacao/codigo.md)
 * [Métodos de Operação](organizacao/metodos.md)
 * [Tatuagens e Símbolos](organizacao/tatuagens.md)
-
-## A Célula de Viktor Petrov
-
-* [Viktor Petrov](viktor/perfil.md)
-* [História de Viktor](viktor/historia-viktor.md)
-* [Yelena Petrova](viktor/yelena.md)
-* [A Célula de Brighton Beach](viktor/celula.md)
-* [Território e Operações](viktor/territorio.md)
-* [Aliados e Rivais](viktor/aliados-rivais.md)
+* [A Célula de Brighton Beach](organizacao/celula-brighton.md)
+* [Aliados e Rivais](organizacao/aliados-rivais.md)
 
 ## Contexto
 
