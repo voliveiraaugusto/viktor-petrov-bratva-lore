@@ -1,6 +1,6 @@
 # A Bratva Hoje — O Presente
 
-<figure><img src="https://images.unsplash.com/photo-1534430480872-3498386e7856?w=1400&q=80" alt="Skyline de Nova York à noite"><figcaption>A Bratva não desapareceu. Apenas aprendeu a ser invisível.</figcaption></figure>
+<figure><img src="../.gitbook/assets/mafia-rua.jpg" alt="Homens da máfia russa na rua"><figcaption>A Bratva não desapareceu. Apenas aprendeu a ser invisível.</figcaption></figure>
 
 ## O Cenário Atual (2000-presente)
 

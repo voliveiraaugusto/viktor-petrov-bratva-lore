@@ -1,6 +1,6 @@
 # Viktor Petrov — A História do Pakhan
 
-<figure><img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1400&q=80" alt="Homem de meia idade em sombra"><figcaption>Viktor Petrov — o homem que ninguém vê, mas todos sentem</figcaption></figure>
+<figure><img src="../.gitbook/assets/cena-crime.jpg" alt="Cena sombria de crime"><figcaption>Viktor Petrov — o homem que ninguém vê, mas todos sentem</figcaption></figure>
 
 ## Ficha
 

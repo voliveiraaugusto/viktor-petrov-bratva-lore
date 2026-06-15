@@ -1,6 +1,6 @@
 # Guia de Roleplay
 
-<figure><img src="https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=1400&q=80" alt="Controller de jogo"><figcaption>Guia prático para interpretar membros da organização de Viktor Petrov</figcaption></figure>
+<figure><img src="../.gitbook/assets/brighton-beach.jpg" alt="Brighton Beach"><figcaption>Guia prático para interpretar membros da organização de Viktor Petrov</figcaption></figure>
 
 ## Princípios Fundamentais
 

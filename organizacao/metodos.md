@@ -1,6 +1,6 @@
 # Métodos de Operação
 
-<figure><img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1400&q=80" alt="Documentos e caneta"><figcaption>A arma mais poderosa da Bratva não é uma pistola — é uma caneta</figcaption></figure>
+<figure><img src="../.gitbook/assets/container-porto.jpeg" alt="Containers no porto"><figcaption>A arma mais poderosa da Bratva não é uma pistola — é uma caneta</figcaption></figure>
 
 ## Crime de Colarinho Branco
 
@@ -35,7 +35,7 @@ Dinheiro é enviado para empresas-fantasma em paraísos fiscais (Chipre, Ilhas C
 
 ## Contrabando
 
-<figure><img src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1400&q=80" alt="Porto com containers"><figcaption>Cada container pode esconder milhões em mercadoria não declarada</figcaption></figure>
+<figure><img src="../.gitbook/assets/container-porto.jpeg" alt="Containers no porto"><figcaption>Cada container pode esconder milhões em mercadoria não declarada</figcaption></figure>
 
 Os portos de Nova York (Red Hook, Newark) são artérias vitais do comércio global — e do contrabando. A Bratva explora essa infraestrutura:
 

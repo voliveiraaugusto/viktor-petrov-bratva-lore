@@ -1,6 +1,6 @@
 # Yelena Petrova
 
-<figure><img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=1400&q=80" alt="Mulher de olhar penetrante na penumbra"><figcaption>Yelena Petrova — a sombra ao lado do Pakhan</figcaption></figure>
+<figure><img src="../.gitbook/assets/nyc-anos90.webp" alt="Yelena Petrova"><figcaption>Yelena Petrova — a sombra ao lado do Pakhan</figcaption></figure>
 
 ## Ficha
 

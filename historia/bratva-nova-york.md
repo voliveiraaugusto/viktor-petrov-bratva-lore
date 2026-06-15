@@ -1,6 +1,6 @@
 # A Bratva em Nova York
 
-<figure><img src="https://images.unsplash.com/photo-1500916434205-0c77489c6cf7?w=1400&q=80" alt="Brooklyn Bridge à noite"><figcaption>Nova York — o maior porto de entrada da Bratva nos Estados Unidos</figcaption></figure>
+<figure><img src="../.gitbook/assets/brooklyn-bridge.webp" alt="Brooklyn Bridge e Manhattan"><figcaption>Nova York — o maior porto de entrada da Bratva nos Estados Unidos</figcaption></figure>
 
 ## Little Odessa
 
@@ -53,7 +53,7 @@ Com o colapso da URSS, a imigração russa para Nova York **explodiu**. Entre 19
 
 ## Modus Operandi em Nova York
 
-<figure><img src="https://images.unsplash.com/photo-1534430480872-3498386e7856?w=1400&q=80" alt="Containers no porto"><figcaption>Os portos de Nova York — artérias do contrabando internacional</figcaption></figure>
+<figure><img src="../.gitbook/assets/container-porto.jpeg" alt="Containers no porto"><figcaption>Os portos de Nova York — artérias do contrabando internacional</figcaption></figure>
 
 Diferente da Cosa Nostra (que operava com violência visível e controle territorial), a Bratva em Nova York priorizava **crimes financeiros de alto valor**:
 

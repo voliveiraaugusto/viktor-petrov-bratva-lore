@@ -1,6 +1,6 @@
 # O Submundo de Brooklyn
 
-<figure><img src="https://images.unsplash.com/photo-1555424681-b0ecf4fe19a5?w=1400&q=80" alt="Rua de Brooklyn à noite"><figcaption>Brooklyn — onde cada bairro pertence a alguém</figcaption></figure>
+<figure><img src="../.gitbook/assets/nyc-anos90.webp" alt="Brooklyn Bridge anos 90 com Twin Towers"><figcaption>Brooklyn — onde cada bairro pertence a alguém</figcaption></figure>
 
 ## Geografia Criminal
 

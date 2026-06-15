@@ -1,6 +1,6 @@
 # Os Gêmeos Petrov — Uma História de Sangue e Silêncio
 
-<figure><img src="https://images.unsplash.com/photo-1509281373149-e957c6296406?w=1400&q=80" alt="Sombras duplas em rua escura"><figcaption>Dois nasceram juntos. Dois sobreviveram juntos. Dois construíram um império juntos.</figcaption></figure>
+<figure><img src="../.gitbook/assets/cena-crime.jpg" alt="Sombras em rua escura"><figcaption>Dois nasceram juntos. Dois sobreviveram juntos. Dois construíram um império juntos.</figcaption></figure>
 
 ## Volgogrado, 1961
 
